@@ -1,3 +1,3 @@
 # python_scripts
 
-Work in progress...
+This is a collection of random python snippets.
